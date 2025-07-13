@@ -1,3 +1,4 @@
+![logo](https://github.com/Sowmya801/Sowmya/blob/main/bg.jpg)
 <h1 align="center">Hi 👋, I'm Sowmya</h1>
 <h3 align="center">A Passionate about software development,database systems, and real-world problem-solving through technology.</h3>
 
